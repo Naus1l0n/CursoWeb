@@ -1,2 +1,25 @@
-Atualmente cursando Sistemas de informação na Unimater # CursoWeb
-Trabalho em Pato Branco em uma distribuidora de medicamentos
+<h1 align="center"> DevLinks </h1>
+
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+- [Acesse o projeto finalizado, online](https://github.com/Naus1l0n)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
