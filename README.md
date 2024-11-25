@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/Naus1l0n)
+- [Acesse o projeto finalizado, online](https://naus1l0n.github.io/CursoWeb/)
 
 ## :memo: Licença
 
